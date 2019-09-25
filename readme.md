@@ -1,0 +1,1 @@
+based on: https://sosedoff.com/2014/12/15/generate-random-hex-string-in-go.html
